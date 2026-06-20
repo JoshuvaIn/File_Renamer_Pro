@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3d1933e1-79ed-49be-bf56-7359e2e38064" /># File Renamer Pro
+# File Renamer Pro
 
 Renaming a hundred files by hand is the kind of small misery nobody should have to live through. **File Renamer Pro** does it for you — cleanly, safely, and in seconds.
 
