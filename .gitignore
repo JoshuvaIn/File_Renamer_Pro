@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# ---------------------------------------------------------------------------
+# PyInstaller build artifacts (the portable .exe is regenerated from app.py;
+# distribute it via a GitHub Release instead of committing it to the repo)
+# ---------------------------------------------------------------------------
+build/
+dist/
+*.spec
+
+# ---------------------------------------------------------------------------
+# App runtime files (auto-created on run; user-specific, keep out of the repo)
+# ---------------------------------------------------------------------------
+config.json
+log.txt
+
+# ---------------------------------------------------------------------------
+# OS / editor noise
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
