@@ -1,0 +1,17 @@
+[MASTER]
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=
+    missing-function-docstring,
+    too-many-instance-attributes,
+    too-many-locals,
+    too-many-branches,
+    broad-exception-caught,
+    import-error,
+    too-many-lines,
+
+[DESIGN]
+max-attributes=10
+max-locals=20
+max-branches=15
